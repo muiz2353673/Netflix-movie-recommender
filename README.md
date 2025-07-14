@@ -1,7 +1,7 @@
 <h1 align="center">🍿 Netflix Movie Recommender 🎥</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6fJ9Vt3HzQQU9hO0/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGY0Y2hwZTczamxhNzg1dmExbnF2OXduZzRtZ2U0eGEzeTYzMHEybCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3q2NESCqvcO2J1x6/giphy.gif" width="300" />
 </p>
 
 <p align="center">
